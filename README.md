@@ -26,8 +26,3 @@ Sou o <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/
 ► Codar 🎯</p>
 <p>
 ► Brincar com nossa cachorra Alaska 🐶 </p>
-
-<div>  
-  <h4 align="left"> Visitantes </h4>
-  <img align="left" src="https://profile-counter.glitch.me/Igorgcf/count.svg">
-   </div>
