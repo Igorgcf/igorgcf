@@ -4,6 +4,7 @@ Sou o <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/
 
 - 💻 Formado em <a class="badge-base__link LI-simple-link" href="https://i.imgur.com/78Ufjx5.png">Java básico</a> e <a class="badge-base__link LI-simple-link" href="https://i.imgur.com/jzCntgd.png">intermediário</a> através do YouTube com a instrutora Loiane Groner.
 - 🤵🏽 <a class="badge-base__link LI-simple-link" href="https://e-certificado.com/login/visualizar?c=2048579A089F418113357850">Formado como desenvolvedor</a> Web Full Stack Junior na ONG Generation Brasil, porém sigo como dev backend.
+- <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/8b415f98-6711-47c3-824a-aa396c2feddd" /> Formado em desenvolvimento Web Java Junior Backend com Ecossistema Spring e banco de dados relacional através do programa Desenvolva+ em parceria da Ada Tech com Mercado Livre, envolvendo POO | e POO ||, técnicas de programação, programação web ||, testes automatizados e Orientação de carreira.
 - 🎯 Cursos remotos adicionais Java + Spring.
 
 
